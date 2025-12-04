@@ -10,7 +10,8 @@ import java.sql.SQLException;
 public class DatabaseConnection {
     private static final String DB_URL = "jdbc:mysql://localhost:3306/atm_db";
     private static final String USER = "root";
-    private static final String PASS = "";  // Update with your MySQL password if needed
+    private static final String PASS = "9651314739";
+ // Update with your MySQL password if needed
 
     static {
         try {
